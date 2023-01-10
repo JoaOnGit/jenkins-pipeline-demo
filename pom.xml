@@ -36,6 +36,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-pipeline-demo</finalName>
 	</build>
-
 </project>
